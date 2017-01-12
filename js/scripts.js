@@ -27,15 +27,3 @@ $(document).ready(function(){
 
   });
 });
-
-
-//
-//
-// input1 + input2 >= input3 || input2 + input3 >= input1 || input3 + input1 >= input2)
-
-
-// (input1 === input2 && || input2 === input3 || input3 === input1) && (input1 + input2 <= input3 || input2 + input3 <= input1 || input3 + input1 <= input2)
-//
-// input1 + input2 <= input3 || input2 + input3 <= input1 || input3 + input1 <= input2
-//
-// input1 != input2 && input2 != input3 && input3 != input1
